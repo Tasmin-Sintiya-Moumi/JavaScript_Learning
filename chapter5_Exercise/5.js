@@ -1,1 +1,7 @@
-//Write a function applyTwice(fn, value) that returns fn(fn(value)). Test it with a function that doubles a number.
+/*Write a function applyTwice(fn, value) that returns fn(fn(value)). 
+Test it with a function that doubles a number.*/
+
+function applyTwice(fn , value)
+{
+    
+}
