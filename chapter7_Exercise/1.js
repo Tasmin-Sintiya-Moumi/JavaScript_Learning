@@ -1,3 +1,6 @@
+/*Model yourself as an object with name, dept, semester, and skills (an array). Print a sentence 
+using its properties.*/
+
 const myself ={
     name:"Moumi",
     dept:"CSE",
