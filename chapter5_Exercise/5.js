@@ -3,5 +3,11 @@ Test it with a function that doubles a number.*/
 
 function applyTwice(fn , value)
 {
-    
+    return fn(fn(value));
 }
+
+function double (n){
+    return n * 2;
+}
+
+console.log(applyTwice(double, 10));
